@@ -1,0 +1,1 @@
+String apiKey = "d756e5c28d704ce79e4aabb42ef62af3"; //api key for news
